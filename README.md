@@ -1,1 +1,418 @@
-# kucuk-ciftciler
+# kucuk-ciftciler[Buse_Revize (1).html](https://github.com/user-attachments/files/25742046/Buse_Revize.1.html)
+<!DOCTYPE html>
+<html lang="tr" class="scroll-smooth"> <head>
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/svg+xml" href="https://cdn.wegic.ai/assets/onepage/agent/images/1772548997750.png?imageMogr2/format/webp">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Toprakya - Antalya Çocuk Bostanı ve Doğa Eğitim Merkezi</title>
+    <meta name="description" content="Antalya Konyaaltı'nda 5-12 yaş arası çocuklar için doğa eğitim merkezi, çocuk bostanları, fide seraları ve atölyeler. Çocuğunuz doğayla büyüsün!">
+    <meta name="keywords" content="çocuk bostanı antalya, doğa eğitimi, çocuk tarım atölyesi, konyaaltı çocuk aktiviteleri, fide üretimi, dikey bahçe, biyolojik gölet">
+    <meta name="author" content="Toprakya">
+    <meta name="robots" content="index, follow">
+    
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://toprakya.com/">
+    <meta property="og:title" content="Toprakya - Doğayla Büyüyen Mutlu Çocuklar">
+    <meta property="og:description" content="Antalya'nın en yeşil çocuk merkezi! Kendi bostanını ek, doğayı keşfet, atölyelere katıl.">
+    <meta property="og:image" content="https://cdn.wegic.ai/assets/onepage/agent/images/1772549068923.jpg?imageMogr2/format/webp">
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://toprakya.com/">
+    <meta property="twitter:title" content="Toprakya - Doğayla Büyüyen Mutlu Çocuklar">
+    <meta property="twitter:description" content="Antalya'nın en yeşil çocuk merkezi! Kendi bostanını ek, doğayı keşfet, atölyelere katıl.">
+    <meta property="twitter:image" content="https://cdn.wegic.ai/assets/onepage/agent/images/1772549068923.jpg?imageMogr2/format/webp">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&amp;family=Patrick+Hand&amp;display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" crossorigin="" href="https://cdn.wegic.ai/assets/onepage/publish/01KJSZ8MBHR6E1P14KBXXA67NJ/048c2e644cd78f71cc949c6b35c646762c495c5b/assets/index-CShJCmyQ.css">
+
+    <style>
+        html {
+            scroll-behavior: smooth;
+        }
+        /* Header sabit olduğu için (fixed), tıklandığında başlığın altında kalmaması için üstten boşluk bırakıyoruz */
+        section {
+            scroll-margin-top: 100px;
+        }
+    </style>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Toprakya Çocuk Bostanı",
+      "image": "https://cdn.wegic.ai/assets/onepage/agent/images/1772549068923.jpg?imageMogr2/format/webp",
+      "@id": "https://toprakya.com",
+      "url": "https://toprakya.com",
+      "telephone": "123456789",
+      "email": "toprakya@gmail.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Gürsu Mah. 323 Sok.",
+        "addressLocality": "Konyaaltı",
+        "addressRegion": "Antalya",
+        "postalCode": "07070",
+        "addressCountry": "TR"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 36.87,
+        "longitude": 30.65
+      },
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "priceRange": "₺₺"
+    }
+    </script>
+</head>
+<body>
+    <div id="root">
+        <div class="min-h-screen flex flex-col font-body text-lg">
+            
+            <header class="fixed w-full top-0 z-50 bg-[#FFF8E7]/90 backdrop-blur-md border-b-4 border-orange-200 shadow-sm">
+                <div class="container mx-auto px-4 py-3 flex justify-between items-center">
+                    <a class="flex items-center gap-2 group" href="#" data-discover="true">
+                        <div class="relative w-12 h-12 bg-white rounded-full flex items-center justify-center border-2 border-orange-400 group-hover:scale-110 transition-transform">
+                            <img alt="Toprakya Logo" class="w-10 h-10 object-contain" src="https://cdn.wegic.ai/assets/onepage/agent/images/1772548997750.png?imageMogr2/format/webp">
+                        </div>
+                        <span class="font-heading text-2xl text-orange-600 tracking-wide group-hover:text-orange-500 transition-colors">Toprakya</span>
+                    </a>
+                    <nav class="hidden md:flex gap-8 items-center">
+                        <a href="#" class="font-heading text-lg text-brown-700 hover:text-orange-500 transition-colors relative after:content-[''] after:absolute after:w-full after:scale-x-0 after:h-1 after:bottom-0 after:left-0 after:bg-orange-400 after:origin-bottom-right after:transition-transform after:duration-300 hover:after:scale-x-100 hover:after:origin-bottom-left">Ana Sayfa</a>
+                        <a href="#hakkimizda" class="font-heading text-lg text-brown-700 hover:text-orange-500 transition-colors relative after:content-[''] after:absolute after:w-full after:scale-x-0 after:h-1 after:bottom-0 after:left-0 after:bg-orange-400 after:origin-bottom-right after:transition-transform after:duration-300 hover:after:scale-x-100 hover:after:origin-bottom-left">Hakkımızda</a>
+                        <a href="#tesisler" class="font-heading text-lg text-brown-700 hover:text-orange-500 transition-colors relative after:content-[''] after:absolute after:w-full after:scale-x-0 after:h-1 after:bottom-0 after:left-0 after:bg-orange-400 after:origin-bottom-right after:transition-transform after:duration-300 hover:after:scale-x-100 hover:after:origin-bottom-left">Tesislerimiz</a>
+                        <a href="#uyelik" class="font-heading text-lg text-brown-700 hover:text-orange-500 transition-colors relative after:content-[''] after:absolute after:w-full after:scale-x-0 after:h-1 after:bottom-0 after:left-0 after:bg-orange-400 after:origin-bottom-right after:transition-transform after:duration-300 hover:after:scale-x-100 hover:after:origin-bottom-left">Üyelik</a>
+                        <a href="#iletisim" class="font-heading text-lg text-brown-700 hover:text-orange-500 transition-colors relative after:content-[''] after:absolute after:w-full after:scale-x-0 after:h-1 after:bottom-0 after:left-0 after:bg-orange-400 after:origin-bottom-right after:transition-transform after:duration-300 hover:after:scale-x-100 hover:after:origin-bottom-left">İletişim</a>
+                        <a href="https://www.tema.org.tr/fidan-bagisi-secenekleri" target="_blank" rel="noopener noreferrer" class="bg-green-500 hover:bg-green-600 text-white font-heading px-6 py-2 rounded-full shadow-lg hover:shadow-xl transition-all transform hover:-translate-y-1 flex items-center gap-2">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-sprout" aria-hidden="true"><path d="M14 9.536V7a4 4 0 0 1 4-4h1.5a.5.5 0 0 1 .5.5V5a4 4 0 0 1-4 4 4 4 0 0 0-4 4c0 2 1 3 1 5a5 5 0 0 1-1 3"></path><path d="M4 9a5 5 0 0 1 8 4 5 5 0 0 1-8-4"></path><path d="M5 21h14"></path></svg>Başvuru Yap
+                        </a>
+                    </nav>
+                    <button class="md:hidden text-orange-600 p-2">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-menu" aria-hidden="true"><path d="M4 5h16"></path><path d="M4 12h16"></path><path d="M4 19h16"></path></svg>
+                    </button>
+                </div>
+            </header>
+
+            <main class="flex-grow pt-20">
+                <div class="fixed -z-10 top-0 left-0 w-full h-full opacity-10 pointer-events-none" style="background-image: url(&quot;data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23d97706' fill-opacity='0.2'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E&quot;);"></div>
+                <div class="overflow-hidden">
+                    
+                    <section class="relative h-screen min-h-[600px] flex items-center justify-center text-center text-white px-4">
+                        <div class="absolute inset-0 z-0">
+                            <video autoplay="" loop="" playsinline="" class="w-full h-full object-cover" poster="https://cdn.wegic.ai/assets/onepage/agent/images/1772549068923.jpg?imageMogr2/format/webp">
+                                <source src="https://cdn.wegic.ai/assets/onepage/agent/videos/01KJT2GCQS40TM725NWJZ8H691.webm" type="video/webm">
+                            </video>
+                            <div class="absolute inset-0 bg-black/45"></div>
+                            <div class="absolute inset-0 bg-gradient-to-t from-orange-900/60 via-transparent to-transparent"></div>
+                        </div>
+                        <div class="relative z-10 max-w-4xl mx-auto space-y-6">
+                            <div style="opacity: 1; transform: none;">
+                                <span class="inline-block bg-orange-400/80 text-white text-sm font-bold px-4 py-1.5 rounded-full uppercase tracking-widest mb-4">Antalya Konyaaltı</span>
+                                <h1 class="font-heading text-5xl md:text-7xl font-black leading-tight drop-shadow-xl">Toprağa Dokunan<br><span class="text-amber-300">Eller Büyür</span></h1>
+                            </div>
+                            <p class="font-body text-lg md:text-2xl text-orange-100 max-w-2xl mx-auto drop-shadow" style="opacity: 1; transform: none;">5-12 yaş arası çocukların tohumdan hasada kadar doğayla buluştuğu,<br class="hidden md:block">sevgi dolu bir öğrenme yuvası.</p>
+                            <div class="flex flex-col sm:flex-row gap-4 justify-center items-center" style="opacity: 1; transform: none;">
+                                <a href="https://www.tema.org.tr/fidan-bagisi-secenekleri" target="_blank" rel="noopener noreferrer" class="bg-orange-500 hover:bg-orange-400 text-white font-bold px-8 py-4 rounded-full text-lg transition-all duration-300 hover:scale-105 shadow-xl hover:shadow-orange-400/40">🌱 Hemen Üye Ol</a>
+                                <a href="#tesisler" class="border-2 border-white/70 hover:border-amber-300 hover:text-amber-300 text-white font-semibold px-8 py-4 rounded-full text-lg transition-all duration-300">Tesis Turu →</a>
+                            </div>
+                        </div>
+                        <div class="absolute bottom-8 left-1/2 -translate-x-1/2 z-10 animate-bounce">
+                            <div class="w-6 h-10 border-2 border-white/50 rounded-full flex items-start justify-center p-1">
+                                <div class="w-1.5 h-3 bg-white/70 rounded-full animate-scroll-dot"></div>
+                            </div>
+                        </div>
+                    </section>
+
+                    <section class="bg-amber-50 py-10 border-y border-orange-100">
+                        <div class="max-w-5xl mx-auto px-4 grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
+                            <div class="space-y-1">
+                                <div class="text-3xl">👧👦</div>
+                                <div class="font-heading text-3xl font-black text-orange-600">200+</div>
+                                <div class="font-body text-sm text-[#8B5E3C] font-medium">Mutlu Çocuk</div>
+                            </div>
+                            <div class="space-y-1">
+                                <div class="text-3xl">🌿</div>
+                                <div class="font-heading text-3xl font-black text-orange-600">6</div>
+                                <div class="font-body text-sm text-[#8B5E3C] font-medium">Alan &amp; Tesis</div>
+                            </div>
+                            <div class="space-y-1">
+                                <div class="text-3xl">🎒</div>
+                                <div class="font-heading text-3xl font-black text-orange-600">5-12</div>
+                                <div class="font-body text-sm text-[#8B5E3C] font-medium">Yaş Aralığı</div>
+                            </div>
+                            <div class="space-y-1">
+                                <div class="text-3xl">☀️</div>
+                                <div class="font-heading text-3xl font-black text-orange-600">12 Ay</div>
+                                <div class="font-body text-sm text-[#8B5E3C] font-medium">Yıl Boyu Açık</div>
+                            </div>
+                        </div>
+                    </section>
+
+                    <section id="hakkimizda" class="py-20 px-4 bg-white">
+                        <div class="max-w-6xl mx-auto grid md:grid-cols-2 gap-12 items-center">
+                            <div class="space-y-6">
+                                <span class="text-orange-500 font-bold uppercase tracking-widest text-sm">Hikayemiz</span>
+                                <h2 class="font-heading text-4xl md:text-5xl text-[#5C3D1E] font-black leading-tight">Çocukların Toprağa<br><span class="text-orange-500">Kavuştuğu Yer</span></h2>
+                                <p class="font-body text-lg text-[#7A5C3A] leading-relaxed">Toprakya, çocukların tohumla, toprakla ve doğayla doğrudan buluştuğu özel bir eğitim ve hobi merkezidir. Konyaaltı'nın bereketli topraklarında, her çocuğa kendi bostanını veriyoruz.</p>
+                                <p class="font-body text-lg text-[#7A5C3A] leading-relaxed">Deneyimli hobi abi ve ablalarımız eşliğinde, çocuklar ekmeyi, sulama yapmayı, hasat etmeyi ve doğayı korumayı öğreniyor. Bu süreç onlara sabır, sorumluluk ve merak gibi değerleri kazandırıyor.</p>
+                                <div class="flex flex-wrap gap-3">
+                                    <span class="bg-orange-100 text-orange-700 px-4 py-1.5 rounded-full text-sm font-semibold">Doğa Eğitimi</span>
+                                    <span class="bg-orange-100 text-orange-700 px-4 py-1.5 rounded-full text-sm font-semibold">Sorumluluk</span>
+                                    <span class="bg-orange-100 text-orange-700 px-4 py-1.5 rounded-full text-sm font-semibold">Ekip Çalışması</span>
+                                    <span class="bg-orange-100 text-orange-700 px-4 py-1.5 rounded-full text-sm font-semibold">Sağlıklı Beslenme</span>
+                                </div>
+                            </div>
+                            <div class="grid grid-cols-2 gap-4">
+                                <img alt="Çocuklar bahçede" class="rounded-2xl w-full h-48 object-cover shadow-lg" src="https://cdn.wegic.ai/assets/onepage/uploads/2028829421114957826/image/2026/03/03/01KJT06CENGXDV29DDPGXT3ZH7.png?imageMogr2/format/webp">
+                                <img alt="Dikey bahçe" class="rounded-2xl w-full h-48 object-cover shadow-lg mt-8" src="https://cdn.wegic.ai/assets/onepage/uploads/2028829421114957826/image/2026/03/03/01KJT0457Y2E0WACGR7VR093VW.png?imageMogr2/format/webp">
+                                <img alt="Bahçe kulübesi" class="rounded-2xl w-full h-48 object-cover shadow-lg" src="https://cdn.wegic.ai/assets/onepage/uploads/2028829421114957826/image/2026/03/03/01KJT03TAH180W7S2YMXK4CJG5.png?imageMogr2/format/webp">
+                                <img alt="Amfi alan" class="rounded-2xl w-full h-48 object-cover shadow-lg mt-8" src="https://cdn.wegic.ai/assets/onepage/uploads/2028829421114957826/image/2026/03/03/01KJT04VMJ2ATC6QDM26XCBWZD.png?imageMogr2/format/webp">
+                            </div>
+                        </div>
+                    </section>
+
+                    <section id="tesisler" class="py-20 px-4 bg-[#FDF6ED]">
+                        <div class="max-w-6xl mx-auto">
+                            <div class="text-center mb-14">
+                                <span class="text-orange-500 font-bold uppercase tracking-widest text-sm">Alanlarımız</span>
+                                <h2 class="font-heading text-4xl md:text-5xl text-[#5C3D1E] font-black mt-2">Tesislerimiz</h2>
+                                <p class="font-body text-[#8B5E3C] mt-3 max-w-xl mx-auto text-lg">Her köşesi çocukların keşfedeceği aktiviteler ve öğrenme fırsatlarıyla dolu.</p>
+                            </div>
+                            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+                                <div class="group bg-white rounded-3xl overflow-hidden shadow-md border-b-4 border-orange-200 hover:border-orange-400 hover:-translate-y-2 transition-all duration-300">
+                                    <div class="h-52 overflow-hidden relative">
+                                        <div class="absolute top-3 right-3 bg-white/90 p-2 rounded-full z-10 text-orange-500 shadow"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-sprout" aria-hidden="true"><path d="M14 9.536V7a4 4 0 0 1 4-4h1.5a.5.5 0 0 1 .5.5V5a4 4 0 0 1-4 4 4 4 0 0 0-4 4c0 2 1 3 1 5a5 5 0 0 1-1 3"></path><path d="M4 9a5 5 0 0 1 8 4 5 5 0 0 1-8-4"></path><path d="M5 21h14"></path></svg></div>
+                                        <img alt="Çocuk Bostanları" loading="lazy" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" src="https://cdn.wegic.ai/assets/onepage/uploads/2028829421114957826/image/2026/03/03/01KJT04GKRRMD3V2WTAH9YGYR9.png?imageMogr2/format/webp">
+                                        <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent"></div>
+                                    </div>
+                                    <div class="p-6">
+                                        <h3 class="font-heading text-xl text-[#8B5E3C] mb-2 group-hover:text-orange-600 transition-colors">Çocuk Bostanları</h3>
+                                        <p class="font-body text-[#A67B5B] text-sm leading-relaxed">Her çocuğun kendi parselinde sebze yetiştirdiği, toprağa dokunduğu özel alanlar.</p>
+                                    </div>
+                                </div>
+                                <div class="group bg-white rounded-3xl overflow-hidden shadow-md border-b-4 border-orange-200 hover:border-orange-400 hover:-translate-y-2 transition-all duration-300">
+                                    <div class="h-52 overflow-hidden relative">
+                                        <div class="absolute top-3 right-3 bg-white/90 p-2 rounded-full z-10 text-orange-500 shadow"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-sun" aria-hidden="true"><circle cx="12" cy="12" r="4"></circle><path d="M12 2v2"></path><path d="M12 20v2"></path><path d="m4.93 4.93 1.41 1.41"></path><path d="m17.66 17.66 1.41 1.41"></path><path d="M2 12h2"></path><path d="M20 12h2"></path><path d="m6.34 17.66-1.41 1.41"></path><path d="m19.07 4.93-1.41 1.41"></path></svg></div>
+                                        <img alt="Fide Üretim Seraları" loading="lazy" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" src="https://cdn.wegic.ai/assets/onepage/uploads/2028829421114957826/image/2026/03/03/01KJT01PBJ74951X8X86X1NSQ9.jpg?imageMogr2/format/webp">
+                                        <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent"></div>
+                                    </div>
+                                    <div class="p-6">
+                                        <h3 class="font-heading text-xl text-[#8B5E3C] mb-2 group-hover:text-orange-600 transition-colors">Fide Üretim Seraları</h3>
+                                        <p class="font-body text-[#A67B5B] text-sm leading-relaxed">Tohumdan fideye yaşam döngüsünü öğrendiğimiz, sıcak ve ışık dolu seralarımız.</p>
+                                    </div>
+                                </div>
+                                <div class="group bg-white rounded-3xl overflow-hidden shadow-md border-b-4 border-orange-200 hover:border-orange-400 hover:-translate-y-2 transition-all duration-300">
+                                    <div class="h-52 overflow-hidden relative">
+                                        <div class="absolute top-3 right-3 bg-white/90 p-2 rounded-full z-10 text-orange-500 shadow"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-droplets" aria-hidden="true"><path d="M7 16.3c2.2 0 4-1.83 4-4.05 0-1.16-.57-2.26-1.71-3.19S7.29 6.75 7 5.3c-.29 1.45-1.14 2.84-2.29 3.76S3 11.1 3 12.25c0 2.22 1.8 4.05 4 4.05z"></path><path d="M12.56 6.6A10.97 10.97 0 0 0 14 3.02c.5 2.5 2 4.9 4 6.5s3 3.5 3 5.5a6.98 6.98 0 0 1-11.91 4.97"></path></svg></div>
+                                        <img alt="Biyolojik Gölet" loading="lazy" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" src="https://cdn.wegic.ai/assets/onepage/uploads/2028829421114957826/image/2026/03/03/01KJT016FART66V0ZKE1SGHWH2.jpg?imageMogr2/format/webp">
+                                        <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent"></div>
+                                    </div>
+                                    <div class="p-6">
+                                        <h3 class="font-heading text-xl text-[#8B5E3C] mb-2 group-hover:text-orange-600 transition-colors">Biyolojik Gölet</h3>
+                                        <p class="font-body text-[#A67B5B] text-sm leading-relaxed">Su ekosistemini gözlemlediğimiz, kurbağalar ve su bitkileriyle dolu doğal gölet.</p>
+                                    </div>
+                                </div>
+                                <div class="group bg-white rounded-3xl overflow-hidden shadow-md border-b-4 border-orange-200 hover:border-orange-400 hover:-translate-y-2 transition-all duration-300">
+                                    <div class="h-52 overflow-hidden relative">
+                                        <div class="absolute top-3 right-3 bg-white/90 p-2 rounded-full z-10 text-orange-500 shadow"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-users" aria-hidden="true"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"></path><path d="M16 3.128a4 4 0 0 1 0 7.744"></path><path d="M22 21v-2a4 4 0 0 0-3-3.87"></path><circle cx="9" cy="7" r="4"></circle></svg></div>
+                                        <img alt="Amfi &amp; Eğitim Alanı" loading="lazy" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" src="https://cdn.wegic.ai/assets/onepage/uploads/2028829421114957826/image/2026/03/03/01KJT04VMJ2ATC6QDM26XCBWZD.png?imageMogr2/format/webp">
+                                        <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent"></div>
+                                    </div>
+                                    <div class="p-6">
+                                        <h3 class="font-heading text-xl text-[#8B5E3C] mb-2 group-hover:text-orange-600 transition-colors">Amfi &amp; Eğitim Alanı</h3>
+                                        <p class="font-body text-[#A67B5B] text-sm leading-relaxed">Doğa derslerinin işlendiği, açık havada öğrenmenin keyfine varılan ahşap amfi.</p>
+                                    </div>
+                                </div>
+                                <div class="group bg-white rounded-3xl overflow-hidden shadow-md border-b-4 border-orange-200 hover:border-orange-400 hover:-translate-y-2 transition-all duration-300">
+                                    <div class="h-52 overflow-hidden relative">
+                                        <div class="absolute top-3 right-3 bg-white/90 p-2 rounded-full z-10 text-orange-500 shadow"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-heart" aria-hidden="true"><path d="M2 9.5a5.5 5.5 0 0 1 9.591-3.676.56.56 0 0 0 .818 0A5.49 5.49 0 0 1 22 9.5c0 2.29-1.5 4-3 5.5l-5.492 5.313a2 2 0 0 1-3 .019L5 15c-1.5-1.5-3-3.2-3-5.5"></path></svg></div>
+                                        <img alt="Atölye ve Dinlenme" loading="lazy" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" src="https://cdn.wegic.ai/assets/onepage/uploads/2028829421114957826/image/2026/03/03/01KJT03TAH180W7S2YMXK4CJG5.png?imageMogr2/format/webp">
+                                        <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent"></div>
+                                    </div>
+                                    <div class="p-6">
+                                        <h3 class="font-heading text-xl text-[#8B5E3C] mb-2 group-hover:text-orange-600 transition-colors">Atölye ve Dinlenme</h3>
+                                        <p class="font-body text-[#A67B5B] text-sm leading-relaxed">Yaratıcı sanat atölyeleri ve ailelerin huzurla vakit geçirebileceği dinlenme köşeleri.</p>
+                                    </div>
+                                </div>
+                                <div class="group bg-white rounded-3xl overflow-hidden shadow-md border-b-4 border-orange-200 hover:border-orange-400 hover:-translate-y-2 transition-all duration-300">
+                                    <div class="h-52 overflow-hidden relative">
+                                        <div class="absolute top-3 right-3 bg-white/90 p-2 rounded-full z-10 text-orange-500 shadow"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-leaf" aria-hidden="true"><path d="M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.48 19 2c1 2 2 4.18 2 8 0 5.5-4.78 10-10 10Z"></path><path d="M2 21c0-3 1.85-5.36 5.08-6C9.5 14.52 12 13 13 12"></path></svg></div>
+                                        <img alt="Dikey Saksı Bahçeleri" loading="lazy" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" src="https://cdn.wegic.ai/assets/onepage/uploads/2028829421114957826/image/2026/03/03/01KJT02M9ET0AT39479S29JBVS.jpg?imageMogr2/format/webp">
+                                        <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent"></div>
+                                    </div>
+                                    <div class="p-6">
+                                        <h3 class="font-heading text-xl text-[#8B5E3C] mb-2 group-hover:text-orange-600 transition-colors">Dikey Saksı Bahçeleri</h3>
+                                        <p class="font-body text-[#A67B5B] text-sm leading-relaxed">Yaratıcı ve alan tasarrufu sağlayan, rengarenk dikey bahçecilik örnekleri.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+
+                    <section id="uyelik" class="py-20 px-4 bg-gradient-to-br from-[#5C3D1E] to-[#8B5E3C] text-white">
+                        <div class="max-w-5xl mx-auto">
+                            <div class="text-center mb-14">
+                                <span class="text-amber-300 font-bold uppercase tracking-widest text-sm">Katıl Bize</span>
+                                <h2 class="font-heading text-4xl md:text-5xl font-black mt-2">Üyelik Seçenekleri</h2>
+                                <p class="text-orange-200 mt-3 max-w-xl mx-auto font-body text-lg">Çocuğunuzun toprağa kavuşması için en uygun paketi seç!</p>
+                            </div>
+                            <div class="grid md:grid-cols-3 gap-8">
+                                <div class="bg-white/10 backdrop-blur rounded-3xl p-8 border border-white/20 hover:bg-white/20 transition-all duration-300 flex flex-col">
+                                    <div class="text-4xl mb-4">🌱</div>
+                                    <h3 class="font-heading text-2xl font-black mb-1">Aylık Üyelik</h3>
+                                    <p class="text-orange-200 text-sm mb-6 font-body">Minik Çiftçi Paketi</p>
+                                    <ul class="space-y-3 mb-8 flex-1 font-body text-sm text-orange-100">
+                                        <li class="flex items-center gap-2"><span class="text-amber-300">✓</span> Kendi kişisel parseli</li>
+                                        <li class="flex items-center gap-2"><span class="text-amber-300">✓</span> Haftalık hobi abi/abla rehberliği</li>
+                                        <li class="flex items-center gap-2"><span class="text-amber-300">✓</span> Sera ve gölet erişimi</li>
+                                        <li class="flex items-center gap-2"><span class="text-amber-300">✓</span> Atölye katılımı</li>
+                                    </ul>
+                                    <a href="https://www.tema.org.tr/fidan-bagisi-secenekleri" target="_blank" rel="noopener noreferrer" class="block text-center bg-amber-400 hover:bg-amber-300 text-[#5C3D1E] font-bold py-3 px-6 rounded-2xl transition-all duration-300 hover:scale-105">Hemen Başvur</a>
+                                </div>
+                                <div class="bg-orange-500 rounded-3xl p-8 border-2 border-amber-300 hover:scale-105 transition-all duration-300 flex flex-col shadow-2xl relative">
+                                    <div class="absolute -top-4 left-1/2 -translate-x-1/2 bg-amber-300 text-[#5C3D1E] text-xs font-black px-4 py-1 rounded-full uppercase tracking-wider">En Popüler</div>
+                                    <div class="text-4xl mb-4">🌻</div>
+                                    <h3 class="font-heading text-2xl font-black mb-1">Yıllık Üyelik</h3>
+                                    <p class="text-orange-100 text-sm mb-6 font-body">Büyük Çiftçi Paketi</p>
+                                    <ul class="space-y-3 mb-8 flex-1 font-body text-sm text-white">
+                                        <li class="flex items-center gap-2"><span class="text-amber-200">✓</span> Tüm aylık paket avantajları</li>
+                                        <li class="flex items-center gap-2"><span class="text-amber-200">✓</span> Öncelikli parsel seçimi</li>
+                                        <li class="flex items-center gap-2"><span class="text-amber-200">✓</span> Ücretsiz meyve bahçesi turları</li>
+                                        <li class="flex items-center gap-2"><span class="text-amber-200">✓</span> Özel hasat festivali daveti</li>
+                                        <li class="flex items-center gap-2"><span class="text-amber-200">✓</span> Aile dinlenme alanı önceliği</li>
+                                    </ul>
+                                    <a href="https://www.tema.org.tr/fidan-bagisi-secenekleri" target="_blank" rel="noopener noreferrer" class="block text-center bg-white hover:bg-amber-50 text-orange-600 font-bold py-3 px-6 rounded-2xl transition-all duration-300">Hemen Başvur</a>
+                                </div>
+                                <div class="bg-white/10 backdrop-blur rounded-3xl p-8 border border-white/20 hover:bg-white/20 transition-all duration-300 flex flex-col">
+                                    <div class="text-4xl mb-4">🌼</div>
+                                    <h3 class="font-heading text-2xl font-black mb-1">Günlük Deneme</h3>
+                                    <p class="text-orange-200 text-sm mb-6 font-body">Keşif Ziyareti</p>
+                                    <ul class="space-y-3 mb-8 flex-1 font-body text-sm text-orange-100">
+                                        <li class="flex items-center gap-2"><span class="text-amber-300">✓</span> Tesis turu &amp; tanışma</li>
+                                        <li class="flex items-center gap-2"><span class="text-amber-300">✓</span> Rehberli bahçe aktivitesi</li>
+                                        <li class="flex items-center gap-2"><span class="text-amber-300">✓</span> Sera ziyareti</li>
+                                        <li class="flex items-center gap-2"><span class="text-amber-300">✓</span> Aile bekleme alanı kullanımı</li>
+                                    </ul>
+                                    <a href="https://www.tema.org.tr/fidan-bagisi-secenekleri" target="_blank" rel="noopener noreferrer" class="block text-center bg-amber-400 hover:bg-amber-300 text-[#5C3D1E] font-bold py-3 px-6 rounded-2xl transition-all duration-300 hover:scale-105">Ziyaret Planla</a>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+
+                    <section class="py-20 px-4 bg-white">
+                        <div class="max-w-5xl mx-auto">
+                            <div class="text-center mb-14">
+                                <span class="text-orange-500 font-bold uppercase tracking-widest text-sm">Ekibimiz</span>
+                                <h2 class="font-heading text-4xl md:text-5xl text-[#5C3D1E] font-black mt-2">Hobi Abi &amp; Ablalar</h2>
+                                <p class="font-body text-[#8B5E3C] mt-3 max-w-xl mx-auto text-lg">Çocukların en büyük bahçe arkadaşları - deneyimli, sevecen ve doğa aşığı!</p>
+                            </div>
+                            <div class="grid sm:grid-cols-2 md:grid-cols-4 gap-6">
+                                <div class="bg-[#FDF6ED] rounded-2xl p-6 text-center border border-orange-100 hover:border-orange-300 hover:-translate-y-1 transition-all duration-300">
+                                    <div class="w-16 h-16 bg-orange-100 rounded-full flex items-center justify-center mx-auto mb-4 text-3xl">🌱</div>
+                                    <h4 class="font-heading text-lg text-[#5C3D1E] font-bold">Elif Abi/Abla</h4>
+                                    <p class="font-body text-sm text-[#A67B5B] mt-1">Bahçe Uzmanı</p>
+                                </div>
+                                <div class="bg-[#FDF6ED] rounded-2xl p-6 text-center border border-orange-100 hover:border-orange-300 hover:-translate-y-1 transition-all duration-300">
+                                    <div class="w-16 h-16 bg-orange-100 rounded-full flex items-center justify-center mx-auto mb-4 text-3xl">🌿</div>
+                                    <h4 class="font-heading text-lg text-[#5C3D1E] font-bold">Murat Abi</h4>
+                                    <p class="font-body text-sm text-[#A67B5B] mt-1">Doğa Rehberi</p>
+                                </div>
+                                <div class="bg-[#FDF6ED] rounded-2xl p-6 text-center border border-orange-100 hover:border-orange-300 hover:-translate-y-1 transition-all duration-300">
+                                    <div class="w-16 h-16 bg-orange-100 rounded-full flex items-center justify-center mx-auto mb-4 text-3xl">🎨</div>
+                                    <h4 class="font-heading text-lg text-[#5C3D1E] font-bold">Selin Abla</h4>
+                                    <p class="font-body text-sm text-[#A67B5B] mt-1">Sanat &amp; Atölye</p>
+                                </div>
+                                <div class="bg-[#FDF6ED] rounded-2xl p-6 text-center border border-orange-100 hover:border-orange-300 hover:-translate-y-1 transition-all duration-300">
+                                    <div class="w-16 h-16 bg-orange-100 rounded-full flex items-center justify-center mx-auto mb-4 text-3xl">🌻</div>
+                                    <h4 class="font-heading text-lg text-[#5C3D1E] font-bold">Can Abi</h4>
+                                    <p class="font-body text-sm text-[#A67B5B] mt-1">Sera Uzmanı</p>
+                                </div>
+                            </div>
+                            <div class="grid md:grid-cols-3 gap-6 mt-12">
+                                <img alt="Çocuk aktivite" class="rounded-2xl w-full h-56 object-cover shadow" src="https://cdn.wegic.ai/assets/onepage/uploads/2028829421114957826/image/2026/03/03/01KJT03TAH180W7S2YMXK4CJG5.png?imageMogr2/format/webp">
+                                <img alt="Bahçe çalışması" class="rounded-2xl w-full h-56 object-cover shadow" src="https://cdn.wegic.ai/assets/onepage/uploads/2028829421114957826/image/2026/03/03/01KJT04GKRRMD3V2WTAH9YGYR9.png?imageMogr2/format/webp">
+                                <img alt="Dikey bahçe" class="rounded-2xl w-full h-56 object-cover shadow" src="https://cdn.wegic.ai/assets/onepage/uploads/2028829421114957826/image/2026/03/03/01KJT0457Y2E0WACGR7VR093VW.png?imageMogr2/format/webp">
+                            </div>
+                        </div>
+                    </section>
+
+                    <section class="py-16 px-4 bg-gradient-to-r from-green-700 to-green-600 text-white text-center">
+                        <div class="max-w-2xl mx-auto space-y-6">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-tree-pine mx-auto text-green-300" aria-hidden="true"><path d="m17 14 3 3.3a1 1 0 0 1-.7 1.7H4.7a1 1 0 0 1-.7-1.7L7 14h-.3a1 1 0 0 1-.7-1.7L9 9h-.2A1 1 0 0 1 8 7.3L12 3l4 4.3a1 1 0 0 1-.8 1.7H15l3 3.3a1 1 0 0 1-.7 1.7H17Z"></path><path d="M12 22v-3"></path></svg>
+                            <h2 class="font-heading text-3xl md:text-4xl font-black">Bir Fidan Dik, Bir Gelecek Yarat!</h2>
+                            <p class="font-body text-green-100 text-lg">TEMA Vakfı ile ortak sosyal sorumluluk projemiz kapsamında her üyeliğimizde bir fidan dikilir. Sen de katkı sağlamak ister misin?</p>
+                            <a href="https://www.tema.org.tr/fidan-bagisi-secenekleri" target="_blank" rel="noopener noreferrer" class="inline-block bg-white hover:bg-green-50 text-green-700 font-black px-10 py-4 rounded-full text-lg transition-all duration-300 hover:scale-105 shadow-xl">🌳 TEMA'ya Bağış Yap</a>
+                        </div>
+                    </section>
+
+                    <section id="iletisim" class="py-20 px-4 bg-[#FDF6ED]">
+                        <div class="max-w-4xl mx-auto">
+                            <div class="text-center mb-14">
+                                <span class="text-orange-500 font-bold uppercase tracking-widest text-sm">Bize Ulaşın</span>
+                                <h2 class="font-heading text-4xl md:text-5xl text-[#5C3D1E] font-black mt-2">İletişim</h2>
+                                <p class="font-body text-[#8B5E3C] mt-3 max-w-xl mx-auto text-lg">Toprakya hakkında merak ettiğiniz her şey için buradayız!</p>
+                            </div>
+                            <div class="grid md:grid-cols-3 gap-6">
+                                <div class="bg-white rounded-2xl p-8 text-center shadow-sm border border-orange-100 hover:border-orange-300 hover:-translate-y-1 transition-all duration-300">
+                                    <div class="w-14 h-14 bg-orange-100 rounded-full flex items-center justify-center mx-auto mb-4"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-phone text-orange-500" aria-hidden="true"><path d="M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384"></path></svg></div>
+                                    <h3 class="font-heading text-lg text-[#5C3D1E] font-bold mb-2">Telefon</h3>
+                                    <a href="tel:123456789" class="font-body text-orange-600 hover:text-orange-500 font-semibold text-lg transition-colors">123 456 789</a>
+                                </div>
+                                <div class="bg-white rounded-2xl p-8 text-center shadow-sm border border-orange-100 hover:border-orange-300 hover:-translate-y-1 transition-all duration-300">
+                                    <div class="w-14 h-14 bg-orange-100 rounded-full flex items-center justify-center mx-auto mb-4"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-mail text-orange-500" aria-hidden="true"><path d="m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7"></path><rect x="2" y="4" width="20" height="16" rx="2"></rect></svg></div>
+                                    <h3 class="font-heading text-lg text-[#5C3D1E] font-bold mb-2">E-Posta</h3>
+                                    <a href="mailto:toprakya@gmail.com" class="font-body text-orange-600 hover:text-orange-500 font-semibold transition-colors break-all">toprakya@gmail.com</a>
+                                </div>
+                                <div class="bg-white rounded-2xl p-8 text-center shadow-sm border border-orange-100 hover:border-orange-300 hover:-translate-y-1 transition-all duration-300">
+                                    <div class="w-14 h-14 bg-orange-100 rounded-full flex items-center justify-center mx-auto mb-4"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-map-pin text-orange-500" aria-hidden="true"><path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"></path><circle cx="12" cy="10" r="3"></circle></svg></div>
+                                    <h3 class="font-heading text-lg text-[#5C3D1E] font-bold mb-2">Adres</h3>
+                                    <p class="font-body text-[#8B5E3C] leading-relaxed">Gürsu Mah. 323 Sok.<br>Konyaaltı / Antalya</p>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </main>
+
+            <footer class="bg-[#8B5E3C] text-[#FFF8E7] py-12 relative overflow-hidden">
+                <div class="absolute top-0 left-0 w-full h-4 bg-repeat-x" style="background-image: url(&quot;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 120' preserveAspectRatio='none'%3E%3Cpath d='M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z' fill='%23FFF8E7'/%3E%3C/svg%3E&quot;); height: 50px; transform: translateY(-1px);"></div>
+                <div class="container mx-auto px-4 mt-8">
+                    <div class="grid md:grid-cols-3 gap-8 text-center md:text-left">
+                        <div>
+                            <div class="flex items-center justify-center md:justify-start gap-3 mb-4">
+                                <div class="w-10 h-10 bg-white rounded-full flex items-center justify-center">
+                                    <img alt="Toprakya Logo" class="w-8 h-8 object-contain" src="https://cdn.wegic.ai/assets/onepage/agent/images/1772548997750.png?imageMogr2/format/webp">
+                                </div>
+                                <h3 class="font-heading text-2xl text-yellow-300">Toprakya</h3>
+                            </div>
+                            <p class="opacity-90 max-w-xs mx-auto md:mx-0">Doğayla büyüyen, toprakla öğrenen mutlu çocukların adresi.</p>
+                        </div>
+                        <div>
+                            <h4 class="font-heading text-xl text-yellow-300 mb-4">İletişim</h4>
+                            <ul class="space-y-2 opacity-90">
+                                <li>📞 123456789</li>
+                                <li>📧 toprakya@gmail.com</li>
+                                <li>📍 Gürsu Mah. 323 Sok. Konyaaltı/Antalya</li>
+                            </ul>
+                        </div>
+                        <div>
+                            <h4 class="font-heading text-xl text-yellow-300 mb-4">Hızlı Bağlantılar</h4>
+                            <ul class="space-y-2">
+                                <li><a href="#hakkimizda" class="hover:text-yellow-200 transition-colors">Hakkımızda</a></li>
+                                <li><a href="#tesisler" class="hover:text-yellow-200 transition-colors">Tesislerimiz</a></li>
+                                <li><a href="#uyelik" class="hover:text-yellow-200 transition-colors">Üyelik Modelleri</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="border-t border-[#A67B5B] mt-10 pt-6 text-center opacity-70 text-sm">© 2026 Toprakya Çocuk Bostanı. Tüm hakları saklıdır.</div>
+                </div>
+            </footer>
+        </div>
+    </div>
+</body>
+</html>
